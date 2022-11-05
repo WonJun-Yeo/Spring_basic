@@ -72,7 +72,5 @@ public class SingletonWithPrototypeTest1 {
         public int getCount() {
             return count;
         }
-
     }
-
 }
